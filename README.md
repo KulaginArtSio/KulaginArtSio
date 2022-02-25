@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KulaginArtSio
-- 👀 I’m interested in converting back money to time
+- 👀 I’m interested in balance
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on DAO
 - 📫 How to reach me tema_aka_xeon@mail.ru
