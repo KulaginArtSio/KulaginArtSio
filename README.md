@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KulaginArtSio
-- 👀 I’m interested in balance
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in nodes validation
+- 🌱 I’m currently learning Aptos blockchain
 - 💞️ I’m looking to collaborate on DAO
 - 📫 How to reach me tema_aka_xeon@mail.ru
 
