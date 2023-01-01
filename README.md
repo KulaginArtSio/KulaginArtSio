@@ -2,7 +2,7 @@
 - 👀 I’m interested in nodes validation
 - 🌱 I’m currently learning turkish language
 - 💞️ I’m looking to collaborate on investment
-- 📫 How to reach me tema_aka_xeon@mail.ru
+- 📫 How to reach me dimtemich@gmail.com
 
 <!---
 KulaginArtSio/KulaginArtSio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
